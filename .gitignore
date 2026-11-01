@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# regenerable from Hugging Face (python data.py 14 ; python jqara_data.py)
+data_cache/texts.json
+data_cache_jqara/

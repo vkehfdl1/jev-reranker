@@ -1,0 +1,50 @@
+[
+ {
+  "system": "jev",
+  "cfg": "fit",
+  "wall_s": 4.5,
+  "n": 252,
+  "errors": 0,
+  "tok_sum": 6406661
+ },
+ {
+  "system": "voyage",
+  "cfg": "fit",
+  "wall_s": 79.2,
+  "n": 252,
+  "errors": 0,
+  "tok_sum": 6533704
+ },
+ {
+  "system": "cohere",
+  "cfg": "fit",
+  "wall_s": 7.2,
+  "n": 252,
+  "errors": 0,
+  "tok_sum": 0
+ },
+ {
+  "system": "jev",
+  "cfg": "long",
+  "wall_s": 3.0,
+  "n": 252,
+  "errors": 0,
+  "tok_sum": 8495591
+ },
+ {
+  "system": "voyage",
+  "cfg": "long",
+  "wall_s": 110.9,
+  "n": 252,
+  "errors": 0,
+  "tok_sum": 8505134
+ },
+ {
+  "system": "cohere",
+  "cfg": "long",
+  "wall_s": 7.6,
+  "n": 252,
+  "errors": 0,
+  "tok_sum": 0
+ }
+]
